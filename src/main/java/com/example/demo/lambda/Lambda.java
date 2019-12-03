@@ -11,7 +11,7 @@ public class Lambda {
 
     String flag = "dev environment + aaa";
 
-    String flag2 = "master environment";
+    String flag2 = "master environment dev update";
 
     interface MathOperation {
         int addOperation(int a,int b);
