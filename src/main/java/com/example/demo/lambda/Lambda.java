@@ -9,7 +9,7 @@ public class Lambda {
         System.out.println();
     }
 
-    String flag = "dev environment";
+    String flag = "dev environment + aaa";
 
     interface MathOperation {
         int addOperation(int a,int b);
