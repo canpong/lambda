@@ -9,6 +9,7 @@ public class Lambda {
         System.out.println();
     }
 
+    String flag = "dev environment";
 
     interface MathOperation {
         int addOperation(int a,int b);
